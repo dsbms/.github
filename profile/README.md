@@ -2,7 +2,6 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/dsbms/.github/blob/main/CODE_OF_CONDUCT.md)
 
 [DSBMS Research Group — Forschungszentrum Jülich, IBG-5](https://www.fz-juelich.de/en/ibg/ibg-5/research/data-science-and-bioinformatics-for-mass-spectrometry-of-small-molecules)
-[DSBMS Group Lead - Nils Hoffmann](https://www.fz-juelich.de/profile/hoffmann_n)
 
 The **Data Science and Bioinformatics for Mass Spectrometry (DSBMS)** group is part of the [Institute of Bio- and Geosciences — Computational Metagenomics (IBG-5)](https://www.fz-juelich.de/en/ibg/ibg-5) at [Forschungszentrum Jülich](https://www.fz-juelich.de/en). We develop computational methods, algorithms, and software tools for the analysis of small molecules — including metabolites, lipids, and other biomolecules — measured by high-throughput mass spectrometry.
 
@@ -19,6 +18,14 @@ Our work spans untargeted metabolomics discovery, lipid identification and nomen
 
 ## Projects Overview
 
+## Team
+
+- [Sanjay Kumar Srikakulam - Post-Doctoral Researcher](https://www.fz-juelich.de/profile/srikakulam_s)
+- [Franziska Nicolaus - PhD Student](https://www.fz-juelich.de/profile/nicolaus_f)
+
+### Lead
+
+- [Nils Hoffmann](https://www.fz-juelich.de/profile/hoffmann_n)
 
 ## de.NBI LIFS Contributions
 
