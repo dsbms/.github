@@ -20,8 +20,8 @@ Our work spans untargeted metabolomics discovery, lipid identification and nomen
 
 ## Team
 
-- [Sanjay Kumar Srikakulam - Post-Doctoral Researcher](https://www.fz-juelich.de/profile/srikakulam_s)
 - [Franziska Nicolaus - PhD Student](https://www.fz-juelich.de/profile/nicolaus_f)
+- [Sanjay Kumar Srikakulam - Post-Doctoral Researcher](https://www.fz-juelich.de/profile/srikakulam_s)
 
 ### Lead
 
