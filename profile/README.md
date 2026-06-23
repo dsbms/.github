@@ -7,9 +7,10 @@ The **Data Science and Bioinformatics for Mass Spectrometry (DSBMS)** group is p
 
 Our work spans untargeted metabolomics discovery, lipid identification and nomenclature standardization, multi-omics data integration, and scalable cloud-native analysis workflows. We are active members of the [de.NBI](https://www.denbi.de/) and [ELIXIR Germany](https://www.denbi.de/elixir-de) networks.
 
-Please visit our website for more information:
+We are part of the de.NBI project "Lipidomics Informatics for Life Science" and contribute to joint tool and method development, as well as to trainings, often as part of the annual conference [Lipidomics Forum](https://lipidomics-forum.fz-borstel.de/). 
 
-https://dsbms.github.io
+* [LIFS Homepage](https://lifs-tools.org)
+* [LIFS GitHub](https://github.com/lifs-tools)
 
 ## Code of Conduct
 
